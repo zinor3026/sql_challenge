@@ -6,7 +6,7 @@ For this project, I have designed the tables to hold the data from the CSV files
  ## Installations
  I used QuickDBD for the ERD and PosgreSQL pgadmin4.
  ## Other Instructions:
- The schema was first created using QuikDBD and later modified to avoid errors.
+ The schema was first created using QuickDBD and later modified on SQL to avoid errors.
  ## Contributing
  Almost all problems are solved with the help of the activities and the codes used during the class.
  Special thanks to our TA Joseph Ng for helping me debug my error. Googled the code EXTRACT and its usage. 
